@@ -1,0 +1,12 @@
+{
+  "name": "AI Sexting • ZDARMA",
+  "short_name": "Sexting ZDARMA",
+  "description": "Originální sexting bez placení • česky, divočina, sexy",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#18181b",
+  "theme_color": "#a855f7",
+  "icons": [
+    { "src": "https://via.placeholder.com/192x192?text=😈", "sizes": "192x192", "type": "image/png" }
+  ]
+}
